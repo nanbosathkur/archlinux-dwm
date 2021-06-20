@@ -1,0 +1,7 @@
+dhcpcd
+xorg-server xorg-xinit xorg-xsetroot
+picom wget
+pulseaudio pavucontrol
+ttf-hack ttf-liberation
+base-devel git paru-bin brave-bin
+dwm dmenu st
